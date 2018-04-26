@@ -1,0 +1,4 @@
+ar\com\lauramon\util\HibernateUtil.class
+ar\com\lauramon\app\PersonasApplication.class
+ar\com\lauramon\administracion\AdministracionPersona.class
+ar\com\lauramon\model\Persona.class
